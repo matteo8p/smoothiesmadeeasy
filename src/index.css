@@ -5,9 +5,40 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #646d6d;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.listBody
+{
+  margin: 50px;
+}
+.custom{
+  font-size: 50px;
+}
+
+.inputgroup
+{
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 20px;
+}
+
+.form
+{
+  margin: 50px;
+  margin-bottom: 0px;
+}
+
+.deleteform
+{
+  margin: 10px;
+}
+
+.title
+{
+  color: white;
 }
